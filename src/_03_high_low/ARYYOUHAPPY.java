@@ -9,8 +9,11 @@ public static void main(String[] args) {
 		JOptionPane.showMessageDialog(null,"keap doing what you are doing ");
 	}
 	else {
-		
-	}
+{
+		String num=JOptionPane.showInputDialog(mun+" why not");	
+	
+
+}
 	
 	
 	
