@@ -1,4 +1,4 @@
-package _03_high_low;
+package _04_are_you_happy;
 
 import javax.swing.JOptionPane;
 
@@ -9,66 +9,7 @@ public static void main(String[] args) {
 		JOptionPane.showMessageDialog(null,"keap doing what you are doing ");
 	}
 	else {
-{
+	}
 		String num=JOptionPane.showInputDialog(mun+" why not");	
-	
-
-}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 }

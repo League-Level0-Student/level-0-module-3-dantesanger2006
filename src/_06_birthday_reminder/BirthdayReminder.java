@@ -17,8 +17,9 @@ public class BirthdayReminder {
 
 		// 2. Find out which birthday the user wants and and store their response in a variable
 	
+		String mun= JOptionPane.showInputDialog("what berthday do you whont");
 		// 3. Print out what the user typed
-		
+		System.out.println(mun);
 		// 4. if user asked for "mom"
 			//print mom's birthday
 		// 5. if user asked for "dad"
